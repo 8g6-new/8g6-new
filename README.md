@@ -8,7 +8,7 @@
       </a>
       <br>
       <br>
-      <img src="https://komarev.com/ghpvc/?username=8g6e&color=green">
+      <img src="https://komarev.com/ghpvc/?username=8g6-newe&color=green">
       <br>
       <br>
       <h1 align='center'>
