@@ -3,19 +3,19 @@
 <div align="center"> 
       <br>
       <br>
-      <a href='https://wakatime.com/@8g6'>
+      <a href='https://wakatime.com/@8g6-new'>
           <img src="https://wakatime.com/badge/user/b22f0d5c-6b9c-4f1c-b03e-aded2821b835.svg"  width=20% height=5%>
       </a>
       <br>
       <br>
-      <img src="https://komarev.com/ghpvc/?username=8g6-newe&color=green">
+      <img src="https://komarev.com/ghpvc/?username=8g6-new-newe&color=green">
       <br>
       <br>
       <h1 align='center'>
             <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;Wish+you+a+good+day+😇&center=true&size=26"    
        </h1>
       <br>
-      <h3>Ever wondored why I choose this user name <a href='https://github.com/8G6'>(8G6)</a></h3>
+      <h3>Ever wondored why I choose this user name <a href='https://github.com/8g6-new'>(8g6-new)</a></h3>
      
 </div>
 
@@ -23,7 +23,7 @@
       ord=(a)=>a.charCodeAt(0)
       chr=(a)=>String.fromCharCode(a)
       print=(...a)=>console.log(...a)
-      name_encoded='8G6'
+      name_encoded='8g6-new'
       name_decoded_cap=''
       name_decoded_small=''
       for(i=0;i<name_encoded.length;i++){
@@ -55,23 +55,23 @@
             
 <div align="center"> 
       <h2>Trophys</h2>
-      <img src="https://github-profile-trophy.vercel.app/?username=8G6&theme=discord&&row=2&column=3">
+      <img src="https://github-profile-trophy.vercel.app/?username=8g6-new-new&theme=discord&&row=2&column=3">
       <h2 align="center">Profile Overview</h2>
       <br>
-       <img src="https://activity-graph.herokuapp.com/graph?username=8g6">
+       <img src="https://activity-graph.herokuapp.com/graph?username=8g6-new-new">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=8G6&theme=blue-green">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=8G6&theme=blue-green">
+      <img src="https://github-readme-stats.vercel.app/api?username=8g6-new&theme=blue-green">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=8g6-new&theme=blue-green">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8G6&theme=highcontrast">  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8g6-new&theme=highcontrast">  
       
  </div>
 <div align='center'>
       <h2 align='center'>My Wakatime Stats</h2>
-      <a href='https://wakatime.com/@8g6'>
-            <img src="https://wakatime.com/share/@8g6/e3f61f03-5fda-45c7-b29e-057e720374c4.svg"  width=70% height=50%>
-            <img src="https://wakatime.com/share/@8g6/dbdb613a-db40-42b7-8530-648339db8e3b.svg"  width=70% height=50%>
-            <img src="https://wakatime.com/share/@8g6/33938ad1-c61b-4606-a33f-596ff46a2eb3.svg"  width=70% height=50%>
+      <a href='https://wakatime.com/@8g6-new'>
+            <img src="https://wakatime.com/share/@8g6-new/e3f61f03-5fda-45c7-b29e-057e720374c4.svg"  width=70% height=50%>
+            <img src="https://wakatime.com/share/@8g6-new/dbdb613a-db40-42b7-8530-648339db8e3b.svg"  width=70% height=50%>
+            <img src="https://wakatime.com/share/@8g6-new/33938ad1-c61b-4606-a33f-596ff46a2eb3.svg"  width=70% height=50%>
       </a>
 
 </div>
@@ -83,7 +83,7 @@
 </div>
 <div align='center'>
       <h2 align='center'>StarDev</h2>
-      <a href="https://stardev.io/developers/8G6"><img alt="Check out 8G6's profile on stardev.io" src="https://stardev.io/developers/8G6/badge/languages/global.svg" /></a>
+      <a href="https://stardev.io/developers/8g6-new"><img alt="Check out 8g6-new's profile on stardev.io" src="https://stardev.io/developers/8g6-new/badge/languages/global.svg" /></a>
 </div>
       
       
