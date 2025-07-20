@@ -7,8 +7,6 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=8g6-new&color=green">
-  <br>
-  <img src="https://img.shields.io/badge/Primary_Languages-C/Python_85%25_of_Codebase-blue?style=flat-square">
 </div>
 
 ---
@@ -149,7 +147,7 @@ print(name_decoded_cap,name_decoded_small)
 
 ---
 
-<div align="left">
+<div align="center">
   <h2>🏆 Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=8g6-new&theme=discord&row=2&column=3">
 </div>
@@ -158,7 +156,6 @@ print(name_decoded_cap,name_decoded_small)
 
 <div align="center">
   <h2>📊 Profile Overview</h2>
-  <details>
     <img src="https://github-readme-stats.vercel.app/api?username=8g6-new&theme=blue-green">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8g6-new&theme=highcontrast">
 </div>
