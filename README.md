@@ -34,7 +34,7 @@ print(name_decoded_cap,name_decoded_small)
 // DSB / dsb => Devadut S Balan / devadut s balan
 ```
 
-<div align="center">
+<div align="left">
   <h3>Why 8g6? It’s special for three reasons:</h3>
   <ul>
     <li><b>8</b>: Octa, symbolizing strength and symmetry.</li>
@@ -51,7 +51,7 @@ print(name_decoded_cap,name_decoded_small)
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>⚙️ My Skills</h2>
   <p>Here’s a snapshot of my technical expertise across multiple domains:</p>
   <table>
@@ -115,7 +115,7 @@ print(name_decoded_cap,name_decoded_small)
   <p>My work is fueled by a passion for cutting-edge technology and real-world problem-solving:</p>
   <table>
     <tr>
-      <td align="center">
+      <td align="left">
         <ul>
           <li><b>Applied Physics & Real-World Systems</b> 🧪: Solving practical problems with physics-driven solutions.</li>
           <li><b>Hardware Design & Fabrication</b> 🛠️: Building precise components with 3D printing and developing laser-based fabrication systems (in progress).</li>
@@ -123,7 +123,7 @@ print(name_decoded_cap,name_decoded_small)
           <li><b>Parameter-Efficient AI</b> 🤖: Creating efficient, lightweight machine learning models.</li>
         </ul>
       </td>
-      <td align="center">
+      <td align="left">
         <ul>
           <li><b>Real-Time DSP & Embedded ML</b> 📶: Optimizing signal processing for edge devices.</li>
           <li><b>Robotics & Mechatronics</b> ⚙️: Designing intelligent mechanical systems.</li>
@@ -137,7 +137,7 @@ print(name_decoded_cap,name_decoded_small)
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>🔭 Explorations in Progress</h2>
   <p>Currently working on exciting R&D projects—follow for updates!</p>
   <ul>
@@ -149,7 +149,7 @@ print(name_decoded_cap,name_decoded_small)
 
 ---
 
-<div align="center">
+<div align="leftr">
   <h2>🏆 Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=8g6-new&theme=discord&row=2&column=3">
 </div>
