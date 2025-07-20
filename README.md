@@ -149,7 +149,7 @@ print(name_decoded_cap,name_decoded_small)
 
 ---
 
-<div align="leftr">
+<div align="left">
   <h2>🏆 Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=8g6-new&theme=discord&row=2&column=3">
 </div>
@@ -159,11 +159,8 @@ print(name_decoded_cap,name_decoded_small)
 <div align="center">
   <h2>📊 Profile Overview</h2>
   <details>
-    <summary>Click to view GitHub stats and activity</summary>
-
     <img src="https://github-readme-stats.vercel.app/api?username=8g6-new&theme=blue-green">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8g6-new&theme=highcontrast">
-  </details>
 </div>
 
 ---
